@@ -6,6 +6,9 @@ An AI-powered placement preparation platform that combines mock interviews, resu
 
 InterviewIQ AI helps candidates prepare for technical and behavioral interviews at top companies. Upload your resume, and the platform uses AI to personalize every feature: generate mock interview questions, evaluate your answers, analyze skill gaps against dream companies, evaluate code submissions, build learning roadmaps, and track your progress with rich analytics.
 
+👉 Try the Live Application : https://interviewiq-ai-platf-btna.bolt.host
+
+
 ## Architecture
 
 ```
